@@ -1,11 +1,13 @@
 about:
-  description: A pixel-art exercise companion that nudges you to move during long Claude Code runs
+  description:
+  |
+    A pixel-art exercise companion that nudges you to move during long Claude Code runs
   license: MIT
   homepage: 
   head: 053581b
   archived: false
   latestVersion: v0.1.1
-  collectedAt: 2026-09-04T04:30:56Z
+  collectedAt: 2026-09-04T19:32:19Z
 timeline:
   created: 2026-02-26
   lastCommit: 2026-02-26
@@ -22,10 +24,18 @@ language:
   Go: 111690
   Python: 88134
   JavaScript: 5785
-totalLine: 205609
+totalBytes: 205609
 recent:
   last30d:
     since: 2026-08-05
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last60d:
+    since: 2026-07-06
     release: 0
     mergedPR: 0
     openPR: 0
@@ -56,3 +66,21 @@ recent:
     closedIssue: 0
     openIssue: 1
     commit: 4
+  last720d:
+    since: 2024-09-14
+    release: 2
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 1
+    commit: 4
+total:
+  release: 2
+  mergedPR: 0
+  openPR: 0
+  closedIssue: 0
+  openIssue: 1
+  commit: 4
+---
+---
+
