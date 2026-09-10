@@ -1,24 +1,76 @@
 # claude-gym
 
+[中文版本](./README.cn.md)
+
 A pixel-art exercise companion that nudges you to move during long Claude Code runs
 
-- **Upstream**: <https://github.com/477-Studio/claude-gym>
-- **Homepage**: <>
-- **Latest release**: `v0.1.1` (2026-02-26)
-- **Last commit**: 2026-02-26
-- **License**: MIT
-- **Stars**: 42 · **Forks**: 4 · **Open issues**: 1 · **Contributors**: 3
+![claude-gym](https://repo.x-cmd.io/claude-gym.svg)
 
-## Installation
+## Install
 
 ```sh
 x install claude-gym
 ```
 
-See <https://x-cmd.com/install/claude-gym> for details.
+## Code insight
 
-## Data
+Total: **5,014** lines of code across **25** files in the top 5 languages.
 
-This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Go | 3,019 | 432 | 556 | 15 |
+| Python | 1,770 | 380 | 371 | 3 |
+| JavaScript | 152 | 8 | 33 | 1 |
+| Json | 73 | 0 | 0 | 3 |
+| Markdown | 0 | 184 | 105 | 3 |
 
-_Last regenerated: 2026-09-09T20:42:49Z._
+## Source
+
+- **Upstream**: <https://github.com/477-Studio/claude-gym>
+- **License**: MIT
+
+## Release
+
+- **Latest**: `v0.1.1` (2026-02-26)
+- **Last commit**: 2026-02-26
+- **Assets in release**: 5
+
+## Popularity
+
+- **Stars**: 42 · **Forks**: 4 · **Open issues**: 1 · **Contributors**: 3
+
+## Totals (cumulative)
+
+- **Releases**: 2 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 1 · **Commits**: 4
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-14 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-15 | 2 | 0 | 0 | 0 | 1 | 4 |
+| last720d | 2024-09-20 | 2 | 0 | 0 | 0 | 1 | 4 |
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [checksums.txt](https://github.com/477-Studio/claude-gym/releases/download/v0.1.1/checksums.txt) | 413 B | `other` |
+| [claude-gym_v0.1.1_darwin_amd64.tar.gz](https://github.com/477-Studio/claude-gym/releases/download/v0.1.1/claude-gym_v0.1.1_darwin_amd64.tar.gz) | 1.8 MiB | `native/darwin/x64` |
+| [claude-gym_v0.1.1_darwin_arm64.tar.gz](https://github.com/477-Studio/claude-gym/releases/download/v0.1.1/claude-gym_v0.1.1_darwin_arm64.tar.gz) | 1.6 MiB | `native/darwin/arm64` |
+| [claude-gym_v0.1.1_linux_amd64.tar.gz](https://github.com/477-Studio/claude-gym/releases/download/v0.1.1/claude-gym_v0.1.1_linux_amd64.tar.gz) | 1.7 MiB | `native/linux/x64` |
+| [claude-gym_v0.1.1_windows_amd64.zip](https://github.com/477-Studio/claude-gym/releases/download/v0.1.1/claude-gym_v0.1.1_windows_amd64.zip) | 1.7 MiB | `native/win/x64` |
+
+## Improve this data
+
+Install metadata for claude-gym lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `claude-gym` is missing, out of date, or installs incorrectly, please open an issue or PR there:
+
+- **Open an issue**: <https://github.com/x-cmd/install/issues/new>
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/claude-gym.yml> (or whichever path the index uses)
+
+The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
+
+_Snapshot: `data/card/260910.yml` · 2026-09-10T23:47:06Z._
