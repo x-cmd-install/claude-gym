@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 1791666,
       "digest": "sha256:f64cf8d27e7271289194ad829121718feaf056ec1ee22022cc96335fb534b161",
-      "download_count": 24,
+      "download_count": 25,
       "created_at": "2026-02-26T05:51:51Z",
       "updated_at": "2026-02-26T05:51:51Z",
       "browser_download_url": "https://github.com/477-Studio/claude-gym/releases/download/v0.1.1/claude-gym_v0.1.1_linux_amd64.tar.gz"
